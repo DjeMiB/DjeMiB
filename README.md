@@ -1,5 +1,5 @@
 - # Sobre mim
-- 👋 *Olá, eu sou @DjeMiB
+- 👋 Olá, eu sou @DjeMiB
 - 👍 O meu email é [e-mail](djenifer.brum@escola.pr.gov.br)
 - 👀 Eu estou interessada em aprender novas linguagens de programação
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de Javascript e Scratch
